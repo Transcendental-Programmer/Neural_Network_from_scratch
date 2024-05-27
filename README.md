@@ -1,5 +1,6 @@
 ![Image describing the structure of neural network](https://d3lkc3n5th01x7.cloudfront.net/wp-content/uploads/2023/05/30234805/What-are-neural-networks-Banner.svg)
 *Credits to LeewayHertz@google.*
+
 ---
 
 # Simple Neural Network from Scratch
