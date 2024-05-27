@@ -31,7 +31,7 @@ pip install numpy
 1. Clone the repository:
 
 ```bash
-git clone https://github.com/your_username/neural-network-from-scratch.git
+git clone https://github.com/Transcendental-Programmer/neural-network-from-scratch.git
 ```
 
 2. Navigate to the repository directory:
@@ -60,4 +60,4 @@ This project is licensed under the MIT License - see the [LICENSE](LICENSE) file
 
 ---
 
-Feel free to customize this template as needed, and make sure to replace `your_username` in the GitHub clone URL with your actual GitHub username.
+Feel free to customize this template as needed, and make sure to replace `Transcendental-Programmer` in the GitHub clone URL with your actual GitHub username.
