@@ -1,4 +1,4 @@
-
+![Image describing the structure of neural network](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.leewayhertz.com%2Fwhat-are-neural-networks%2F&psig=AOvVaw3H86fbVX3ePDhxNvP8nUqu&ust=1716897858070000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNCUqIzlrYYDFQAAAAAdAAAAABAE)
 ---
 
 # Simple Neural Network from Scratch
@@ -58,6 +58,3 @@ Contributions are welcome! If you find any bugs or have suggestions for improvem
 
 This project is licensed under the MIT License - see the [LICENSE](LICENSE) file for details.
 
----
-
-Feel free to customize this template as needed, and make sure to replace `Transcendental-Programmer` in the GitHub clone URL with your actual GitHub username.
