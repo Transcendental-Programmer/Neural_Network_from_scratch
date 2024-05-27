@@ -1,4 +1,4 @@
-![Image describing the structure of neural network](https://www.google.com/url?sa=i&url=https%3A%2F%2Fwww.leewayhertz.com%2Fwhat-are-neural-networks%2F&psig=AOvVaw3H86fbVX3ePDhxNvP8nUqu&ust=1716897858070000&source=images&cd=vfe&opi=89978449&ved=0CBIQjRxqFwoTCNCUqIzlrYYDFQAAAAAdAAAAABAE)
+![Image describing the structure of neural network](https://d3lkc3n5th01x7.cloudfront.net/wp-content/uploads/2023/05/30234805/What-are-neural-networks-Banner.svg)
 ---
 
 # Simple Neural Network from Scratch
